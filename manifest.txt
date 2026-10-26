@@ -1,3 +1,3 @@
 # LotusGauges Firmware: <name> <version> <groesse> <sha256> <datei>
-gmeter 0.8b 2362672 df81d2eeaf670344ef94d7b6a4a6d25bcc467434a64fd36b0d792f6fafbe3c49 gmeter_0.8b_ota.bin
-speedrev 0.8b 2576256 85313e84914f1597630d81b2223095714bfd3cf91ce71714111a3751326d9cd3 speedrev_0.8b_ota.bin
+gmeter 0.8d 2362800 073810e3dc7751af60d28e07efab8bd75b49121abcb2caad1cc98c2b60fd074d gmeter_0.8d_ota.bin
+speedrev 0.8d 2576384 d65caa085b6886a768f55f2d3cbecec6d7861495e59c595fd22e05aa421c2bec speedrev_0.8d_ota.bin
