@@ -1,4 +1,4 @@
 # LotusGauges Firmware: <name> <version> <groesse> <sha256> <datei>
 speedrev 0.9g 2361184 635734a06815feeb309a8a217fcbf7072dd14df1d17f57112106b750be91c372 speedrev_0.9g_ota.bin
-gmeter 0.9o 2339040 7581742404c19a3e1b447e1aba0487de30d2ba127254229f50749dc7d103c2b7 gmeter_0.9o_ota.bin
 obd_logger 0.8a 1640752 769394ad6852885c17fc3cb7d3fbce25607aee4bf792b8742aa62cdf9bd5788d obd_logger_0.8a_ota.bin
+gmeter 0.9p 2339280 fe4f0ae03e07236b9bae7c5dc574acd81ee69d7b47154e0ec2596bf573878e30 gmeter_0.9p_ota.bin
